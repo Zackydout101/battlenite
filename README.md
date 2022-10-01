@@ -16,7 +16,7 @@ Get the Game now:
 https://play.google.com/store/apps/details?id=com.David.Battle
 
 
-## Description of Project
+## Description of the Project
 
 This project was made with Unity using C#. The goal of this project was to use multiple plugins including Photon. The idea was to recreate the popular Fortnite but in 2D and on mobile. This was my first project to understand how to use Unity. This project contains a bunch of avatars which were used to make animations and a whole world to move the characters. A lot of physics and algoritm were needed to construct the logic of the game. 
 
